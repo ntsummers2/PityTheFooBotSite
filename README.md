@@ -4,6 +4,8 @@
 
 This accompanies a [twitter bot](https://github.com/ntsummers2/PityTheFooBot) I wrote.
 
+The website can be viewed [here](https://goo.gl/9dbcUQ)
+
 ## Build Setup
 
 ``` bash
